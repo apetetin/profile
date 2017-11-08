@@ -33,6 +33,10 @@ h2, h3 {
   color: rgba(70, 70, 70, 0.8);
 }
 
+.fa-chevron-down {
+  color: #5AC8D8;
+}
+
 a {
   color: rgba(50, 50, 50, 0.8);
   text-decoration: none;
