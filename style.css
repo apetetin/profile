@@ -6,7 +6,7 @@ font-family: 'Bitter', serif;*/
 body {
   background: linear-gradient(135deg,
     rgba(100,100,100,0.8) 0%,
-    rgba(250,250,250,0.9) 25%),
+    rgba(250,250,250,0.9) 24%),
     url("images/background_img_profile.jpg");
   color: rgba(50, 50, 50, 0.8);
   font-family: 'Open Sans', sans-serif;
