@@ -98,8 +98,8 @@ a:hover {
 }
 
 .boold {
-  font-weight: bolder;
-  color: #5AC8D8;
+  font-weight: bolder !important;
+  color: #5AC8D8 !important;
 }
 
 
